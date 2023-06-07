@@ -1,0 +1,18 @@
+#icon{
+    height: 60px;
+    position:fixed;
+    margin-bottom: 80px;
+    border-radius: 20px;
+}
+#icon111{
+    height:40px;
+    padding-left:45%;
+    position: fixed;
+    padding-top: 10px;
+}
+#icon222{
+    height:40px;
+    padding-left:95%;
+    position: fixed;
+    padding-top: 10px;
+}

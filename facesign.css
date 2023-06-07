@@ -1,0 +1,47 @@
+body{
+    background-color:whitesmoke;
+    padding-top: 29%;
+    background-image: url('Facebook-loading-header.png');
+}
+#img2{
+    padding-left:80%;
+    padding-top: 10%;
+}
+h1{
+    text-align: center;
+    margin-right: 8%;
+}
+.main{
+    width: 30%;
+    background-color:whitesmoke;
+    box-shadow: 0 4px 8px 10px rgba(0, 0, 0,0.2); 
+	margin: auto;
+    padding: 20px;
+    margin-top:-370px;
+    padding-left: 5%;
+
+}
+input {
+    padding: 8px;
+    border-radius: 6px;
+    font-size: 15px;
+    background-color: whitesmoke;
+}
+p {
+    font-size:medium;
+    text-align: center;
+    margin-right: 8%;
+}
+.bn{
+    margin-left: 95px;
+    width: 40%;
+    background-color: green;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 45%;
+    opacity: 0.9; 
+    border-radius: 6px; 
+    font-size: 20px;
+}
