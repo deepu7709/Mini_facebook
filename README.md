@@ -1,5 +1,5 @@
 # Mini_facebook 
-<h2>This is a sample facebook prototype developed using</h2>
+<h2>This is a sample facebook prototype developed using technologies</h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
